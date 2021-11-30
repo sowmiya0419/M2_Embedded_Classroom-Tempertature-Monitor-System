@@ -1,5 +1,5 @@
 ## Requirements
-As the outside temperature varies, it may affect our room temperature. So there is a need for technique to control the temperature of the classroom according to the number of students presented in the room even if the outside temperature varies. This Classroom Temperature Monitoring system Controller Using Atmega328 Microcontroller overcomes this problem. The system allows to regulates the specific temperature of the classroom and monitor the overall temperature through the CRO.
+As the outside temperature varies, it may affect our room temperature. So there is a need for technique to control the temperature of the classroom according to the number of students presented in the room even if the outside temperature varies. This Classroom Temperature Monitoring system Controller Using Atmega328 Microcontroller overcomes this problem. The system allows to regulates the specific temperature of the classroom and monitor the overall temperature through the LCD.
 
 
 ## Introduction
@@ -63,4 +63,4 @@ This project is going to be deployed on 2/12/2021.
 
 ## How:
 
-This project includes push buttons according to number of students presented in the class and according to it manages increasing or decreasing of the temperature in the classroom and sends analog data to ATmega324 controller and monitored using CRO.
+This project includes push buttons according to number of students presented in the class and according to it manages increasing or decreasing of the temperature in the classroom and sends analog data to ATmega324 controller and monitored using LCD.
