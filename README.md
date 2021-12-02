@@ -1,5 +1,19 @@
 # M2_Embedded_Classroom-Tempertature-Monitor-System
 
+
+## Folder Structure
+
+|Folder|	Description|
+|------|---------------|
+|1_Requirements|	Documents detailing and research|
+|2_Design	|Documents regarding design details|
+|3_Implementation	|All code and documentation|
+|4_TestPlan	|Documents with test plan and procedure|
+|5_Report	|Project Report|
+|6_ImagesAndVideos	|Project output images and working video|
+
+
+
 ## BADGES
 
 Name of the badges| badges|
