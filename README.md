@@ -1,6 +1,11 @@
 # M2_Embedded_Classroom-Tempertature-Monitor-System
 The Classroom Temperature Monitoring system is basically used to monitor the temperature of the classroom according to the number of students presented. When the students of the class are presented, the button sensor gets activated. After that, the classroom analyser gets access to turn on the heater.The temperature sensor buttons keeps monitoring the temperature of the classroom on the basis of students available in the class and sends the analog value to the ATmega328 microcontroller. The microcontroller processes the analog input of the temperature sensor button and outputs a temperature value through serial communication. All the activities of the regulating systen is performed with a microcontroller called Atmega328 and monitored by CRO serial communication o/p.
 
+## Advantages
+- It is User Friendly
+- Easy to alter the temperature inside the classroom according to the needs.
+- Low power consumption.
+
 
 ## Folder Structure
 
