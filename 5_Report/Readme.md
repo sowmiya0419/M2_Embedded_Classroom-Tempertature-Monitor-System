@@ -8,7 +8,6 @@ The Classroom Temperature Monitoring system is basically used to monitor the tem
 - ATmega328 Microcontroller
 - LCD
 - Push button sensor
-- Serial monitor
 - 5V Power Supply
 
 
@@ -39,9 +38,7 @@ ATMEGA328P| – Simplified Features|
 |RAM|2Kbytes Internal SRAM
 |EEPROM|1Kbytes EEPROM
 |Operating Temperature|-40°C to +105°C(+105 being absolute maximum, -40 being absolute minimum)
-
-## Serial monitor
-The Serial Monitor is an essential tool when creating projects with SimulIDE. It can be used as a debugging tool, testing out concepts or to communicate directly with the ATmega328 controller.. 
+ 
 
  ## Working 
  
